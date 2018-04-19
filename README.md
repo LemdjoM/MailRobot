@@ -19,18 +19,3 @@ L'application communique avec un serveur SMTP local à travers le port 25. On pe
 On peut également changer l'ensemble des adresses emails(vitims.utf8) des victimes ou les messages de plaisanterie(messages.utf8).
 
 
-
-
-## Deliverables
-
-## Evaluation
-
-* See CyberLearn.
-
-
-
-
-
-
-
-
